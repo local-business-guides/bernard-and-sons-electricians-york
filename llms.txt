@@ -23,6 +23,9 @@
 - [Best Electrician Pa York for Home Projects](https://local-business-guides.github.io/bernard-and-sons-electricians-york/best-electrician-pa-york/): Best Electrician Pa York: get clear guidance for home electrical work in York, PA. Call Bernard & Sons Electricians to talk through your next step.
 - [Top Rated Electrician Pa York: A Homeowner’s Guide](https://local-business-guides.github.io/bernard-and-sons-electricians-york/top-rated-electrician-pa-york/): Top Rated Electrician Pa York: prepare for home electrical work in York, PA. Call Bernard & Sons Electricians to discuss your project today.
 
+## Newsroom
+- [Bernard & Sons Electricians Releases York Electrician Guide](https://local-business-guides.github.io/bernard-and-sons-electricians-york/news/2026-11-10-bernard-sons-electricians-releases-york/): Bernard & Sons Electricians published a guide to Electrician In York PA, with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-10)
+
 ## Pages
 - [Electrician in York, Pennsylvania](https://local-business-guides.github.io/bernard-and-sons-electricians-york/): Get practical electrical help from Bernard & Sons Electricians, serving customers in York, Pennsylvania. Call +1717-373-2286.
 - [About Bernard & Sons Electricians](https://local-business-guides.github.io/bernard-and-sons-electricians-york/about/): About Bernard & Sons Electricians, York.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/bernard-and-sons-electricians-york/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/bernard-and-sons-electricians-york/news/rss.xml)
 - [Main resource site](https://bernard-sons-electricians-york.localbusinesses1.chatgpt.site)
